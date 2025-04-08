@@ -12,7 +12,7 @@ export default function Home() {
         />
         <h1 className="text-4xl md:text-5xl font-bold tracking-wide">GramaKala</h1>
         <p className="text-lg md:text-xl text-[#6d4c41]">
-          Empowering Rural Talent
+          Empowering Rural Talent 
         </p>
         <p className="text-md md:text-lg text-[#7e5d4e]">
           A marketplace for skilled hands and humble hearts 💛
